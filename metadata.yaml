@@ -1,0 +1,32 @@
+_repo: The-Hoosier-School-boy_23771
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eggleston, Edward
+    birthdate: 1837
+    deathdate: 1902
+    gutenberg_agent_id: '3293'
+    url: http://www.gutenberg.org/2009/agents/3293
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Eggleston
+description: This 1883 juvenile novel, a sequel to Eggleston's first and best-known
+  novel, The Hoosier School-Master , is based on the experiences of Eggleston's brother
+  as a teacher. It offers considered criticisms of rural educational practices in
+  Indiana but is also full of nostalgia for a bygone time in American life.
+gutenberg_issued: '2007-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23771'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Teachers -- Fiction'
+- !lcsh 'Country life -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Indiana -- Fiction'
+title: The Hoosier School-boy
+url: http://www.gutenberg.org/ebooks/23771
